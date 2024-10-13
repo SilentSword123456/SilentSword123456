@@ -2,4 +2,4 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C++ and Java
 - 💞️ I’m looking to collaborate on Programs
-- 📫 How to reach me by sending me a message
+- 📫 How to reach me? By sending me a message
