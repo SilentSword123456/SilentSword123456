@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @SilentSword123456
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++ and Java
-- 💞️ I’m looking to collaborate on Programs
-- 📫 How to reach me? By sending me a message
+Holla! I'm SilentSword, and it's a pleasure to meet you. I'm constantly building new apps, and I'd love to connect with you. Just send me a message, and when I see it, I'll respond right away. You can find all my social media at silentlab.work/contact
