@@ -1,1 +1,1 @@
-Holla! I'm SilentSword, and I'm happy you're here. I'm constantly building new apps, and I'd love to connect with you, so just send me a message. You can find all my social media at [silentlab.work/contact](https://silentlab.work/contact)
+Holla! I'm Andrei, welcome to my page! I'm constantly building new apps, and I'd love to connect with you, so just send me a message. You can find all my social media at [silentlab.work/contact](https://silentlab.work/contact)
